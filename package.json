@@ -1,0 +1,24 @@
+{
+  "name": "wanderlust-server",
+  "version": "1.0.0",
+  "description": "- Create a Web Server using Express\r - Create a Country List Object   \r ``` javascript \r // for example\r const countries = [{id: 1, country: 'India', city: 'Jaipur'},{id: 2, country: 'Costa Rica', city: 'San Jose'}]\r ```\r - Expose endpoints\r   - '/' for Wanderlust Hompage\r   - '/countries' to expose countries object",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hash-insert/wanderlust-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hash-insert/wanderlust-server/issues"
+  },
+  "homepage": "https://github.com/hash-insert/wanderlust-server#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
