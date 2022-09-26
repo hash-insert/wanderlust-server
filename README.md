@@ -1,4 +1,4 @@
-# Wanderlust List Server - Wishlist of Places to travel
+# Wanderlust Server - Wishlist of Places to travel
 - Create a Web Server using Express
 - Create a Country List Object   
 ``` javascript 
