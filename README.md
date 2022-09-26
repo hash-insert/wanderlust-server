@@ -16,3 +16,6 @@ const places = [{id: 1, country: 'India', city: 'Jaipur', places:['Amber Fort', 
 - `GET /places/:id` - this route should display a single place and its details
 - `PUT /places/:id` - this route should accept edits to existing places.
 - `DELETE /placess/:id` - this route should allow you to delete a specific place from the array.
+
+
+> Test the API Endpoints with Postman
